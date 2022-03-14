@@ -74,6 +74,12 @@ print(32 % 3)
 print(44 % 2)
 
 
+my_team = 27 % 4
+
+print(my_team)
+# When the module is not devisible the result wil be 0 
+print(26 % 4)
+print(28 % 4)
 
 
 
