@@ -37,5 +37,18 @@ runtime = 2
 rating_out_of_10 = 7.5
 
 
+# Performing Numerical Operations using Variables
+
+
+coffe_price = 1.50
+
+number_of_coffees = 4
+
+print(coffe_price * number_of_coffees)
+
+
+
+
+
 
 
