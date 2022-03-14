@@ -27,3 +27,15 @@ print(message_string)
 # Numbers in Python 
 
 
+#Integer Numbers 
+release_year = 2022
+runtime = 2
+
+#Floating Numbers
+
+
+rating_out_of_10 = 7.5
+
+
+
+
