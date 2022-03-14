@@ -27,3 +27,14 @@ customer_one_itemization += luxurious_lamp_description
 customer_one_tax  = customer_one_total * sales_tax
 
 customer_one_total  += customer_one_tax
+
+
+
+
+# Users inputs
+
+
+likes_snakes = input("Do you really like snakes: ")
+
+# Problems converting to strings
+print(likes_snakes)
