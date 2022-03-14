@@ -8,3 +8,11 @@ persnickety_count = 0
 #complicated_rain_calculation_for_tomorrow
 
 print('Hello World here I\'m learning python again')
+
+# desclaring variables in Python
+
+
+message_string = "Hello World here is the important message for all"
+
+
+print(message_string)
