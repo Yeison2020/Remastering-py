@@ -12,6 +12,9 @@
 # Cats are female dogs.
 
 
+from calendar import weekday
+
+
 example_statement = "No"
 
 statement_one = "Yes"
@@ -133,6 +136,82 @@ if not gpa >= 2.0:
 
 if( not credits >=  120) and (not gpa >= 2.0):
   print("You do not meet either requirement to graduate!")
+
+
+# Else Statements
+
+weekday = True
+
+if weekday:
+      print("wake up at 6:30")
+else:
+  print("sleep in")
+
+
+age = 35
+
+
+if age >= 13:
+      print("Access granted.")
+else:
+  print("Sorry, you must be 13 or older to watch this movie.")
+
+
+
+if age <= 23:
+    print("Hello World")
+else: 
+    print("Else case just happen")
+
+
+if (credits >= 120) and (gpa >= 2.0):
+      print("You meet the requirements to graduate!")
+
+else: 
+  print("You do not meet the requirements to graduate.")
+
+
+# Else If Statements
+
+print("Thank you for the donation!")
+donation = 1000
+ 
+if donation >= 1000:
+  print("You've achieved platinum status")
+elif donation >= 500:
+  print("You've achieved gold donor status")
+elif donation >= 100:
+  print("You've achieved silver donor status")
+else:
+  print("You've achieved bronze donor status")
+
+
+# Mores examples
+
+
+grade = 86
+
+
+if grade > 90:
+  print("A")
+elif grade >= 80:
+  print("B")
+elif grade >= 70:
+  print("C")
+
+elif grade >= 60:
+  print("D")
+else:
+  print("D")
+
+
+
+
+
+
+
+
+
 
 
 
