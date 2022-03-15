@@ -63,3 +63,24 @@ if user_name == "Dave":
 if user_name == "angela_catlady_87":
   print("I know it is you, Dave! Go away!")
 
+
+age_user = 13
+
+if age_user <= 13:
+    print("Sorry You're no allow here")
+
+
+
+    # Boolean Operators: and
+statement_one = (2 + 2 + 2 >= 6) and (-1 * -1 < 0)
+
+statement_two = (4 * 2 <= 8) and (7 - 1 == 6)
+
+credits = 120
+gpa = 3.4
+
+if credits >= 120 and gpa >= 2.0:
+  print("You meet the requirements to graduate!")
+
+
+
