@@ -36,5 +36,7 @@ customer_one_total  += customer_one_tax
 
 likes_snakes = input("Do you really like snakes: ")
 
+name_entered = str(likes_snakes)
+
 # Problems converting to strings
-print(likes_snakes)
+print(name_entered)
