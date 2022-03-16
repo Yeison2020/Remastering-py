@@ -162,7 +162,7 @@ gradebook = [["physics",	9],
 gradebook.append(["computer science", 10])
 
 gradebook.append(["visual arts", 9])
-gradebook[-1][-1] = 98
+gradebook[-1][-1] = 9
 
 print(gradebook[-1][-1])
 
