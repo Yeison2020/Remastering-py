@@ -147,14 +147,14 @@ subjects = ["physics",
 
 
 
-grades = [98,
+grades = [9,
 97,
-85,
+8,
 88]
 
 gradebook = [["physics",	98],
 ["calculus",	97],
-["poetry"	,85],
+["poetry"	,8],
 ["history",	88]]
 
 # print(gradebook)
