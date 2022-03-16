@@ -185,7 +185,7 @@ print(full_gradebook)
 
 # Adding by Index: Insert
 
-front_display_list = ["Mango", "Filet Mignon", "Chocolate Milk"]
+front_display_list = ["Mang", "File Mignon", "Chocolate Milk"]
 print(front_display_list)
 
 # Your code below: 
@@ -202,7 +202,7 @@ data_science_topics.pop()
 
 print(data_science_topics)
 
-data_science_topics.pop(3)
+data_science_topics.pop(2)
 
 print(data_science_topics)
 
