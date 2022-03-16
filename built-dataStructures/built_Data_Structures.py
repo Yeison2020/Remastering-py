@@ -41,4 +41,44 @@ new_orders = ["lilac", "iris"]
 orders_combined = orders + new_orders
 
 
+shopping_line = ["Cole", "Kip", "Chris", "Sylvana"]
 
+shopping_line.remove("Chris")
+ 
+print(shopping_line)
+
+# Your code below: 
+
+order_list = ["Celery", "Orange Juice", "Orange", "Flatbread"]
+
+print(order_list)
+
+
+order_list.remove("Flatbread")
+
+print(order_list)
+
+new_store_order_list  = ["Orange", "Apple", "Mango", "Broccoli", "Mango"]
+
+
+print(new_store_order_list)
+
+
+new_store_order_list.remove("Mango")
+print(new_store_order_list)
+
+
+new_store_order_list.remove("Onions")
+
+
+class_name_test = [["Jenny"	,90],["Alexus"	,85.5],
+["Sam",	83],["Ellie",	101.5]]
+
+
+print(class_name_test)
+
+sams_score = class_name_test[2][1]
+print(sams_score)
+
+ellies_score = class_name_test[-1][-1]
+print(ellies_score)
