@@ -136,7 +136,7 @@ print(customer_data)
 
 print(customer_data_final)
 
-last_semester_gradebook = [["politics", 80], ["latin", 96], ["dance", 97], ["architecture", 65]]
+last_semester_gradebook = [["politics", 8], ["latin", 9], ["dance", 9], ["architecture", 6]]
 
 # Your code below: 
 
@@ -150,7 +150,7 @@ subjects = ["physics",
 grades = [9,
 97,
 8,
-88]
+8]
 
 gradebook = [["physics",	9],
 ["calculus",	97],
