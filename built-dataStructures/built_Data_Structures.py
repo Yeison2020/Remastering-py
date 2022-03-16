@@ -169,13 +169,13 @@ print(gradebook[-1][-1])
 print(gradebook[2].remove(85))
 
 
-gradebook[2].append('Pass')
+gradebook[3].append('Pass')
 
 
 print(gradebook)
 
 
-last_semester_gradebook =[ ["Last Year"]]
+last_semester_gradebook =[ ["Last Yea"]]
 
 full_gradebook = gradebook + last_semester_gradebook
 
