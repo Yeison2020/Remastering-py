@@ -148,20 +148,20 @@ subjects = ["physic",
 
 
 grades = [9,
-97,
+9,
 8,
 8]
 
 gradebook = [["physics",	9],
-["calculus",	97],
+["calculus",	9],
 ["poetry"	,8],
 ["history",	8]]
 
 # print(gradebook)
 
-gradebook.append(["computer science", 100])
+gradebook.append(["computer science", 10])
 
-gradebook.append(["visual arts", 93])
+gradebook.append(["visual arts", 9])
 gradebook[-1][-1] = 98
 
 print(gradebook[-1][-1])
