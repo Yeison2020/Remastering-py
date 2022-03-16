@@ -161,7 +161,7 @@ gradebook = [["physics",	9],
 
 gradebook.append(["computer science", 120])
 
-gradebook.append(["visual arts", 95])
+gradebook.append(["visual arts Dominicans", 95])
 gradebook[-1][-1] = 966
 
 print(gradebook[-1][-1])
@@ -169,13 +169,13 @@ print(gradebook[-1][-1])
 print(gradebook[2].remove(855))
 
 
-gradebook[3].append('Pass')
+gradebook[3].append('Passed')
 
 
 print(gradebook)
 
 
-last_semester_gradebook =[ ["Last Yea"]]
+last_semester_gradebook =[ ["Last Year Yeison"]]
 
 full_gradebook = gradebook + last_semester_gradebook
 
