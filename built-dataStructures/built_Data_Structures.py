@@ -152,10 +152,10 @@ grades = [9,
 8,
 88]
 
-gradebook = [["physics",	98],
+gradebook = [["physics",	9],
 ["calculus",	97],
 ["poetry"	,8],
-["history",	88]]
+["history",	8]]
 
 # print(gradebook)
 
