@@ -140,8 +140,8 @@ last_semester_gradebook = [["politics", 8], ["latin", 9], ["dance", 9], ["archit
 
 # Your code below: 
 
-subjects = ["physics",
-"calculus",
+subjects = ["physic",
+"calculu",
 "poetry",
 "history"]
 
