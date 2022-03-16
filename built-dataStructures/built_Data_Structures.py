@@ -155,18 +155,18 @@ grades = [9,
 gradebook = [["physics",	9],
 ["calculus",	9],
 ["poetry"	,8],
-["history",	8]]
+["history",	82]]
 
 # print(gradebook)
 
-gradebook.append(["computer science", 10])
+gradebook.append(["computer science", 120])
 
-gradebook.append(["visual arts", 9])
-gradebook[-1][-1] = 9
+gradebook.append(["visual arts", 95])
+gradebook[-1][-1] = 966
 
 print(gradebook[-1][-1])
 
-print(gradebook[2].remove(85))
+print(gradebook[2].remove(855))
 
 
 gradebook[3].append('Pass')
